@@ -2,7 +2,6 @@
         "name" : "Series",
         "author" : "4 Magnificos",
 		"url" : "https://www.dropbox.com/s/rbndcuvxiwrnupe/Series_4Magnificos.w3u?dl=1",
-		"url" : "https://raw.githubusercontent.com/4Magnificos/WisePlay/main/Series_4Magnificos.w3u?token=GHSAT0AAAAAAB6YRSN2WZU64PW3M45JCSJWY7LQ7LA",
 		"image" : "https://i.imgur.com/m6bU6Q9.jpg",
 		"imageScale" : "fitCenter",
 		"groups" : 
@@ -18,27 +17,33 @@
         "name" : "The Last of Us T1E1",
 		"info" : "",
         "image" : "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/aRquEWm8wWF1dfa9uZ1TXLvVrKD.jpg",
-		"url" : "https://www.dropbox.com/s/jgv1c9hqtgb9xnr/The%20Last%20of%20Us%20-%20Temporada%201%20%5BHDTV%5D%5BCap.101%5D%5BCastellano%5D%5Bwww.AtomoHD.mba%5D.avi?dl=0",
+		"url" : "https://www.tokyvideo.com/es/video/the-last-of-us-t1e1",
 		"isHost" : true
 				},
 {
         "name" : "The Last of Us T1E2",
         "image" : "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/vGf7chl6XL7o3yYc8A5m3kjz8px.jpg",
-		"url" : "https://www.tokyvideo.com/es/video/el-ultimo-de-nosotros-2",
+		"url" : "https://www.tokyvideo.com/es/video/the-last-of-us-t1e2",
 		"isHost" : true
 				},
 {
         "name" : "The Last of Us T1E3",
 		"info" : "",
         "image" : "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/bzy4hAtkY3OOInY4q6MJigLmC1m.jpg",
-		"url" : "https://www.tokyvideo.com/es/video/el-ultimo-de-nosotros-3",
+		"url" : "https://www.tokyvideo.com/es/video/the-last-of-us-t1e3",
 		"isHost" : true
 				},
 
 {
         "name" : "The Last of Us T1E4",
         "image" : "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/szQ95jxKNrYWnCAJx8VC51iws5d.jpg",
-		"url" : "https://www.tokyvideo.com/es/video/los-utimos-de-los-que-quedan-4",
+		"url" : "https://www.tokyvideo.com/es/video/the-last-of-us-t1e4",
+		"isHost" : true
+				},
+{
+        "name" : "The Last of Us T1E5",
+        "image" : "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/szQ95jxKNrYWnCAJx8VC51iws5d.jpg",
+		"url" : "",
 		"isHost" : true
 				},
 			
