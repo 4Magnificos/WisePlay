@@ -1,26 +1,48 @@
-﻿{
+{
         "name" : "Series",
         "author" : "4 Magnificos",
-		"url" : "https://raw.githubusercontent.com/4Magnificos/WisePlay/main/Series_4Magnificos.w3u",
+		"url" : "https://www.dropbox.com/s/rbndcuvxiwrnupe/Series_4Magnificos.w3u?dl=1",
+		"url" : "https://raw.githubusercontent.com/4Magnificos/WisePlay/main/Series_4Magnificos.w3u?token=GHSAT0AAAAAAB6YRSN2WZU64PW3M45JCSJWY7LQ7LA",
 		"image" : "https://i.imgur.com/m6bU6Q9.jpg",
 		"imageScale" : "fitCenter",
 		"groups" : 
-	{                              
+[
+{                              
         "name" : "The Last of Us",
         "image" : "https://i.imgur.com/vSNnytv.jpg",
         "image" : "https://art-gallery-emea.api.hbo.com/images/QI4XAKAAaU4XNoDY8z8-D$$$2cc4533e89a3eeb89657ad4e52ca79c2$$$europe/tile?v=476d909986313aa1ef4087572a265df0&size=720x405&compression=low&protection=false&scaleDownToFit=false&language=es-es",
-		"info" : "Año 2023, 20 años después del comienzo de una plaga mundial que infectó a población con un hongo mutado transformando a las personas en unas criaturas caníbales, el contrabandista Joel tiene la misión de escoltar a la adolescente Ellie por un mundo postapocalíptico en el nada va a ser fácil para los viajeros. Joel todavía vive atormentado por el recuerdo de su única hija. Ellie es portadora de algo que podría cambiar el destino de la humanidad ¿Conseguirán sobrevivir los dos?. Adaptación en formato de serie del popular videojuego homónimo de Naughty Dog",
+		"info" : "",
         "stations" : 
-		[
-		{
-        "name" : "The Last of Us 1",
-		"info" : "Veinte años después de que un brote de hongos asole el planeta, los supervivientes Joel y Tess aceptan escoltar a",
-        "image" : "https://art-gallery-emea.api.hbo.com/images/GYyofRQHeuJ6fiQEAAAEy/logoburnedinleft?v=1152e7272a3afe370ce689433e20317a&size=440x132&compression=low&protection=false&language=es-es",
-        "image" : "",
-        "image" : "",
+	[
+{
+        "name" : "The Last of Us T1E1",
+		"info" : "",
+        "image" : "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/aRquEWm8wWF1dfa9uZ1TXLvVrKD.jpg",
 		"url" : "https://www.tokyvideo.com/es/video/el-ultimo-de-nosotros-1",
-		"isHost" : true 
-		},
-		]
-	}
+		"isHost" : true
+				},
+{
+        "name" : "The Last of Us T1E2",
+        "image" : "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/vGf7chl6XL7o3yYc8A5m3kjz8px.jpg",
+		"url" : "https://www.tokyvideo.com/es/video/el-ultimo-de-nosotros-2",
+		"isHost" : true
+				},
+{
+        "name" : "The Last of Us T1E3",
+		"info" : "",
+        "image" : "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/bzy4hAtkY3OOInY4q6MJigLmC1m.jpg",
+		"url" : "https://www.tokyvideo.com/es/video/el-ultimo-de-nosotros-3",
+		"isHost" : true
+				},
+
+{
+        "name" : "The Last of Us T1E4",
+        "image" : "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/szQ95jxKNrYWnCAJx8VC51iws5d.jpg",
+		"url" : "https://www.tokyvideo.com/es/video/los-utimos-de-los-que-quedan-4",
+		"isHost" : true
+				},
+			
+	]			
+				},
+]
 }
