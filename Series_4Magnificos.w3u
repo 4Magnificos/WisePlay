@@ -1,0 +1,28 @@
+﻿{
+        "name" : "Series",
+        "author" : "4 Magnificos",
+		"url0" : "",
+		"url" : "",
+		"url1" : "",
+		"image" : "https://i.imgur.com/m6bU6Q9.jpg",
+		"imageScale" : "fitCenter",
+		"groups" : 
+	{                              
+        "name" : "The Last of Us",
+        "image" : "https://i.imgur.com/vSNnytv.jpg",
+        "image" : "https://art-gallery-emea.api.hbo.com/images/QI4XAKAAaU4XNoDY8z8-D$$$2cc4533e89a3eeb89657ad4e52ca79c2$$$europe/tile?v=476d909986313aa1ef4087572a265df0&size=720x405&compression=low&protection=false&scaleDownToFit=false&language=es-es",
+		"info" : "Año 2023, 20 años después del comienzo de una plaga mundial que infectó a población con un hongo mutado transformando a las personas en unas criaturas caníbales, el contrabandista Joel tiene la misión de escoltar a la adolescente Ellie por un mundo postapocalíptico en el nada va a ser fácil para los viajeros. Joel todavía vive atormentado por el recuerdo de su única hija. Ellie es portadora de algo que podría cambiar el destino de la humanidad ¿Conseguirán sobrevivir los dos?. Adaptación en formato de serie del popular videojuego homónimo de Naughty Dog",
+        "stations" : 
+		[
+		{
+        "name" : "The Last of Us 1",
+		"info" : "Veinte años después de que un brote de hongos asole el planeta, los supervivientes Joel y Tess aceptan escoltar a",
+        "image" : "https://art-gallery-emea.api.hbo.com/images/GYyofRQHeuJ6fiQEAAAEy/logoburnedinleft?v=1152e7272a3afe370ce689433e20317a&size=440x132&compression=low&protection=false&language=es-es",
+        "image" : "",
+        "image" : "",
+		"url" : "https://www.tokyvideo.com/es/video/el-ultimo-de-nosotros-1",
+		"isHost" : true 
+		},
+		]
+	}
+}
