@@ -13,46 +13,48 @@
 		"info" : "HBO Max",
         "stations" : 
 	[
-{
+	{
         "name" : "The Last of Us T1E1",
 		"info" : "",
         "image" : "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/aRquEWm8wWF1dfa9uZ1TXLvVrKD.jpg",
 		"url" : "https://www.tokyvideo.com/es/video/the-last-of-us-t1e1",
 		"isHost" : true
-				},
-{
+	},
+	{
         "name" : "The Last of Us T1E2",
         "image" : "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/vGf7chl6XL7o3yYc8A5m3kjz8px.jpg",
 		"url" : "https://www.tokyvideo.com/es/video/the-last-of-us-t1e2",
 		"isHost" : true
-				},
-{
+	},
+	{
         "name" : "The Last of Us T1E3",
 		"info" : "",
         "image" : "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/bzy4hAtkY3OOInY4q6MJigLmC1m.jpg",
 		"url" : "https://www.tokyvideo.com/es/video/the-last-of-us-t1e3",
 		"isHost" : true
-				},
+	},
 
-{
+	{
         "name" : "The Last of Us T1E4",
         "image" : "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/szQ95jxKNrYWnCAJx8VC51iws5d.jpg",
 		"url" : "https://www.tokyvideo.com/es/video/the-last-of-us-t1e4",
 		"isHost" : true
-				},
-{
+	},
+	{
         "name" : "The Last of Us T1E5",
         "image" : "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/szQ95jxKNrYWnCAJx8VC51iws5d.jpg",
 		"url" : "https://www.tokyvideo.com/es/video/the-last-of-us-t1e5",
 		"isHost" : true
-				},
-			
-	]			
-				},
+	},
+	]
+}
+
+{
         "name" : "The Climb",
         "image" : "https://imgur.com/H1pSeZv",
 		"info" : "HBO Max",
         "stations" : 
+	
 	[
 	{
         "name" : "The Climb E1",
@@ -60,8 +62,9 @@
         "image" : "",
 		"url" : "",
 		"isHost" : true
-				},
+	},
 	]
 	
+}
 ]	
 }
