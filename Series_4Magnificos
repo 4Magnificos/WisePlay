@@ -10,7 +10,7 @@
         "name" : "The Last of Us",
         "image" : "https://i.imgur.com/vSNnytv.jpg",
         "image" : "https://art-gallery-emea.api.hbo.com/images/QI4XAKAAaU4XNoDY8z8-D$$$2cc4533e89a3eeb89657ad4e52ca79c2$$$europe/tile?v=476d909986313aa1ef4087572a265df0&size=720x405&compression=low&protection=false&scaleDownToFit=false&language=es-es",
-		"info" : "",
+		"info" : "HBO Max",
         "stations" : 
 	[
 {
@@ -50,4 +50,17 @@
 	]			
 				},
 ]
+        "name" : "The Climb",
+        "image" : "https://imgur.com/H1pSeZv",
+		"info" : "HBO Max",
+        "stations" : 
+	[
+	{
+        "name" : "The Climb E1",
+		"info" : "",
+        "image" : "",
+		"url" : "",
+		"isHost" : true
+				},
+	]
 }
