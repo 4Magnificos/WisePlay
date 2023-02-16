@@ -49,7 +49,6 @@
 			
 	]			
 				},
-]
         "name" : "The Climb",
         "image" : "https://imgur.com/H1pSeZv",
 		"info" : "HBO Max",
@@ -63,4 +62,6 @@
 		"isHost" : true
 				},
 	]
+	
+]	
 }
