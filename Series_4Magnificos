@@ -5,7 +5,6 @@
 		"image" : "https://i.imgur.com/m6bU6Q9.jpg",
 		"imageScale" : "fitCenter",
 		"groups" : 
-[
 
 
 {                              
@@ -13,7 +12,13 @@
         "image" : "https://i.imgur.com/vSNnytv.jpg",
         "image" : "https://art-gallery-emea.api.hbo.com/images/QI4XAKAAaU4XNoDY8z8-D$$$2cc4533e89a3eeb89657ad4e52ca79c2$$$europe/tile?v=476d909986313aa1ef4087572a265df0&size=720x405&compression=low&protection=false&scaleDownToFit=false&language=es-es",
 		"info" : "HBO Max",
+        "groups" :
+{                              
+        "name" : "The Last of Us Season 1",
+    	"image" : "https://blog.telecable.es/wp-content/uploads/2018/10/201810_HQ_the_good_doctor_AXN.jpg",
+        "image1" : "https://mlstaticquic-a.akamaihd.net/the-good-doctor-temporada-1-y-2-10-dvd-D_NQ_NP_949254-MLU29846043267_042019-F.jpg",
         "stations" : 
+	[		
 	[
 		{
         "name" : "The Last of Us T1E1",
@@ -48,26 +53,36 @@
 		"isHost" : true
 		},
 	]
+	]
 },
-{                       
+},
+
+
+{                              
         "name" : "The Climb",
         "image" : "https://imgur.com/a/EcZZvDY",
 		"info" : "HBO Max",
+        "groups" :
+{                              
+        "name" : "The Climb Season 1",
+    	"image" : "https://imgur.com/a/EcZZvDY",
         "stations" : 
+	[		
 	[
 		{
-        "name" : "The Climb E1",
+        "name" : "The Climb T1E1",
 		"info" : "",
         "image" : "",
 		"url" : "",
 		"isHost" : true
 		},
-
+	]
 	]
 },
+},	
+		
 
+	
+ 		
 
-
-]	
 }
-
