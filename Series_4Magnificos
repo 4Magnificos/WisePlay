@@ -47,7 +47,24 @@
 		"url" : "https://www.tokyvideo.com/es/video/the-last-of-us-t1e5",
 		"isHost" : true
 		},
-		]
+	]
+	}
+	
+		{                              
+        "name" : "The Climb",
+        "image" : "https://imgur.com/a/EcZZvDY",
+		"info" : "HBO Max",
+        "stations" : 
+	[
+		{
+        "name" : "The Climb E1",
+		"info" : "",
+        "image" : "",
+		"url" : "",
+		"isHost" : true
+		},
+
+	]
 	}
 
 ]	
