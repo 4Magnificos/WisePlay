@@ -1,7 +1,7 @@
 {
         "name" : "Movies",
         "author" : "4 Magnificos",
-		"url" : "https://www.dropbox.com/s/rbndcuvxiwrnupe/Series_4Magnificos.w3u?dl=1",
+		"url" : "",
 		"image" : "https://i.imgur.com/m6bU6Q9.jpg",
 		"imageScale" : "fitCenter",
 		"groups" : 
@@ -17,7 +17,7 @@
 				"name" : "Babylon",
 				"info" : "Paramount Pictures",
 				"image" : "https://i.imgur.com/wDjFt2K.jpg",
-				"url" : "",
+				"url" : "https://www.tokyvideo.com/es/video/babylon",
 				"isHost" : true
 			},
 	]
